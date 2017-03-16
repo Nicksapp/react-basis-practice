@@ -15,5 +15,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://myname.github.io/myapp"
+  "homepage": "http://nickgo.net/react-basis-practice/hello-app/public/"
 }
